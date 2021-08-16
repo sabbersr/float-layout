@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{}
+section{
+    width: 1100px;
+    height: 600px;
+    margin: 30px auto;
+}
+.row{
+    height: 150px;
+}
+.col-1-3{
+    float: left;
+    width: 33.33%;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.col-1{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.col-1-2{
+    float: left;
+    width: 50%;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.col-4-6{ 
+    width: 66.66%;
+    float: left;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.col-1-6{
+    width: 16.66%;
+    float: left;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.orange{
+    background-color: rgb(255, 167, 3);
+    height: 100%;
+}
+.orange-red{
+    background-color: rgb(214, 76, 26) ;
+    height: 100%;
+}
+.yellow{
+    background-color: rgb(212, 50, 233) ;
+    height: 100%;
+
+}
+.blue{
+    background-color:  rgb(74, 114, 235);
+    height: 100%;
+
+}
